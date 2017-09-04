@@ -14,6 +14,11 @@ public class Test {
         System.out.println("Hello IDEA!");
         System.out.println("Hello IDEA!");
         System.out.println("Hello IDEA!");
+        System.out.println("测试!");
+        System.out.println("测试!");
+        System.out.println("测试!");
+        System.out.println("测试!");
+        System.out.println("测试!");
     }
 
 }
