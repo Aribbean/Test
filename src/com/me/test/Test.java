@@ -6,19 +6,9 @@ package com.me.test;
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("Hello IDEA!");
-        System.out.println("测试!");
-        System.out.println("测试!");
-        System.out.println("测试!");
-        System.out.println("测试!");
-        System.out.println("测试!");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("测试!");
+        }
     }
 
 }
